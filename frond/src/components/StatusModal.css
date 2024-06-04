@@ -1,0 +1,32 @@
+.container {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+/* Styling for radio button groups */
+.radio-group {
+  margin-bottom: 15px;
+}
+
+.radio-group label {
+  margin-right: 15px;
+  display: inline-block;
+}
+
+/* Styling for the input group */
+.input-group {
+  margin-top: 10px;
+}
+
+.input-group label {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+}
+
+.input-group input {
+  margin-left: 10px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
